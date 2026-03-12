@@ -13,7 +13,6 @@ A next-generation Pomodoro timer with CLI and Web UI, featuring AI insights, mul
 ### 🚀 **High-Impact Features**
 - 🌐 **Web UI Bridge** - Modern HTML/JS interface with Galactic Flux theme
 - 👥 **Multi-Profile Support** - Work, study, quick, and custom profiles
-- 🧠 **AI-Powered Suggestions** - Personalized recommendations based on performance
 - 📅 **Calendar Heatmap** - Visual session tracking with activity levels
 - 📤 **Export/Import** - JSON/CSV data backup and analysis
 - 🔄 **Cloud Sync** - GitHub/Dropbox synchronization (optional)
